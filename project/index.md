@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: # Project: This is the Descriptive Title of the Example
+title: Project: Energy consumption
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Firstanme, Lastname
+author: Victor, Lastname
 github_url: https://github.com/cybertraining-dsc/su21-reu-365/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
