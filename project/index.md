@@ -4,7 +4,7 @@ title: "Project: Energy consumption"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Victor, Lastname
+author: Victor, Adankai
 github_url: https://github.com/cybertraining-dsc/su21-reu-365/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-365](https://github.com/cybertraining-dsc/su21-reu-365), [Edit](https://github.com/cybertraining-dsc/su21-reu-365/blob/main/project/index.md)
+Victor Adankai, [su21-reu-365](https://github.com/cybertraining-dsc/su21-reu-365), [Edit](https://github.com/cybertraining-dsc/su21-reu-365/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
