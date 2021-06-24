@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: Energy consumption"
+title: "Project: Motion Prediction For Autonomous Vehicles"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
