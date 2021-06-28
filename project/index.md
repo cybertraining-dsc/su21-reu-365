@@ -35,7 +35,6 @@ Contents
 
 ## 1. Introduction
 
-
 - [ ] Find literature about AI and Cyber Attacks on IoT Devices Dectection.
 - [ ] Analyze the literature and explain how AI for Cyber Attacks on IOT Devices Detection are beneficial.
 
