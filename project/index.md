@@ -13,7 +13,7 @@ resources:
 
 [![Check Report](https://github.com/cybertraining-dsc/su21-reu-365/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-365/actions)
 [![Status](https://github.com/cybertraining-dsc/su21-reu-365/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-365/actions)
-Status: final, Type: Project
+Status: draft, Type: Project
 
 
 Victor Adankai, [su21-reu-365](https://github.com/cybertraining-dsc/su21-reu-365), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/blob/main/project/index.md)
