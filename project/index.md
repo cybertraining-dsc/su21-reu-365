@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Cyber Attacks Detections Using AI Algorithms"
+title: "Cyber Attacks Detection Using AI Algorithms"
 linkTitle: "Cyber Attacks Detection"
 tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
 description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices"
