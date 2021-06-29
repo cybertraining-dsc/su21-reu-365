@@ -59,7 +59,6 @@ Contents
 #### Examples of AI Algorithms for Cyber Attacks Detection
 
 - Convolutional Neural Network (CNN)
-  -  
 - Autoencoder (AE)
 - Deep Belief Network (DBN)
 - Recurrent Neural Network (RNN)
