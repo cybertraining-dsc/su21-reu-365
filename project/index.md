@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
-title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
-linkTitle: "Real-Time Cyber Attacks Detection"
+title: "Detection of Cyber Attacks on IoT Devices Using Deep Learning"
+linkTitle: "Cyber Attacks Detection"
 tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
 description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices real-time"
 author: Victor Adankai
@@ -57,6 +57,7 @@ Contents
 
 #### Examples of AI Algorithms for Cyber Attacks Detection
 - Convolutional Neural Network (CNN)
+  -  
 - Autoencoder (AE)
 - Deep Belief Network (DBN)
 - Recurrent Neural Network (RNN)
