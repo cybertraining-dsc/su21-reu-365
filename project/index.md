@@ -40,6 +40,7 @@ Contents
 - Analyze the literature and explain how AI for Cyber Attacks on IOT Devices Detection are beneficial.
 
 #### Types of Cyber Attacks
+
 - Denial of service (DoS) Attack:
 - Remote to Local Attack:
 - Probing:
@@ -56,6 +57,7 @@ Contents
 
 
 #### Examples of AI Algorithms for Cyber Attacks Detection
+
 - Convolutional Neural Network (CNN)
   -  
 - Autoencoder (AE)
