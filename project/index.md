@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Cyber Attacks Detection Using AI Algorithms"
 linkTitle: "Cyber Attacks Detection"
 tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
-description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices"
+description: "This research is analysing multiple artificial intelligence algorithms to detect cyber attacks"
 author: Victor Adankai
 github_url: https://github.com/cybertraining-dsc/su21-reu-365/edit/main/project/index.md
 resources:
@@ -31,7 +31,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** AI, ML, DL, Cybersecurity, Cyber Attacks, IoT. 
+**Keywords:** AI, ML, DL, Cybersecurity, Cyber Attacks. 
 
 
 ## 1. Introduction
